@@ -66,3 +66,4 @@ end
 
 gem 'jquery-rails'
 
+gem 'jquery-turbolinks'
